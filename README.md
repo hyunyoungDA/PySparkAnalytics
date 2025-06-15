@@ -1,6 +1,6 @@
 # Apache Spark & ML/DL Study Repository
 
-이 저장소는 **Spark 공식 문서(Spark Docs)**를 기반으로 **Apache Spark**, **Spark SQL** 등을 학습하고, 이후에 **AWS** 기반 **Elastic MapReduce**, **AWS SageMaker** 등 빅데이터의 파이프라인에 대해 공부할 계획입니다. 
+이 저장소는 Spark 공식 문서(Spark Docs)를 기반으로 **Apache Spark**, **Spark SQL** 등을 학습하고, 이후에 **AWS** 기반 **Elastic MapReduce**, **AWS SageMaker** 등 빅데이터의 파이프라인에 대해 공부할 계획입니다. 
 ML/DL에 활용할 데이터를 구축하고 분석하며, 추후 머신러닝/딥러닝 모델 학습 과정을 기록하기 위한 공간입니다.
 
 ## 📚 학습 목표

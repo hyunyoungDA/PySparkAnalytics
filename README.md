@@ -15,10 +15,8 @@ ML/DL에 활용할 데이터를 구축하고 분석하며, 추후 머신러닝/�
 - **PySpark**
 - **Spark SQL**
 - **Spark ML**
-- **Hive**
 - **Hadoop**
 - **Spark Streaming**
-- **Kafka**
 - **AWS SageMaker**
 - **AWS**
 
